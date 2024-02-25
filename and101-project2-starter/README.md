@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://recordit.co/K9QTuLpVyb' title='Video Demo' width='' alt='Video Demo' />
+<img src='http://g.recordit.co/K9QTuLpVyb.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **Recordit**
 
