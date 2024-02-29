@@ -3,6 +3,9 @@
     <style name="Base.Theme.Thespotifyclone" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name = "colorPrimary">@color/spotify_green</item>
+        <item name = "colorSecondary">@color/spotify_black_dark</item>
+        <item name = "colorSecondaryVariant">@color/spotify_black_light</item>
     </style>
 
     <style name="Theme.Thespotifyclone" parent="Base.Theme.Thespotifyclone" />
