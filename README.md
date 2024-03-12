@@ -2,3 +2,5 @@
 
 * and101-project2-starter - Project Week 2
 * spotifyclone - Lab Week 3
+* debugger - Lab Week 4
+  
