@@ -14,10 +14,10 @@ Congratulations! 🎉 You have been selected by your dream company to participat
 ### 🎯 Goals
 
 By the end of this lab you will be able to...
-- [ ] Debug an app using Android Studio
-- [ ] Understand Views and view hierarchies
-- [ ] Understand interaction through click listeners
-- [ ] Understand View type casting
+- [x] Debug an app using Android Studio
+- [x] Understand Views and view hierarchies
+- [x] Understand interaction through click listeners
+- [x] Understand View type casting
 
 ### Resources
 
@@ -74,7 +74,12 @@ There is now a tiny yellow button shown. It's a bit small to be interacted with,
 
 Is this the **real** red button? Has our journey finally come to an end? Only one way to find out.
 
-- [ ] Tap the red button
+- [x] Tap the red button
 
 🎉 Congratulations, you've successfully completed the challenge! 🎉
 You have shown that you are more than capable as an Engineer, and the company will be extending an offer. Now go change the world! 🚀
+
+### Step 5: Recording
+
+<img src='recording.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
