@@ -5,48 +5,56 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffb5216a-713a-41fd-baf9-a6491824cb00" name="Changes" comment="Initial Commit for Week 3">
-      <change afterPath="$PROJECT_DIR$/spotifyclone/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/androidTest/java/com/example/spotifyclone/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/java/com/example/spotifyclone/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/java/com/example/spotifyclone/ui/theme/Color.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/java/com/example/spotifyclone/ui/theme/Theme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/java/com/example/spotifyclone/ui/theme/Type.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/app/src/test/java/com/example/spotifyclone/ExampleUnitTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spotifyclone/settings.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TA Projects 2024.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/androidTest/java/com/example/apirequest/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/java/com/example/apirequest/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/drawable/dogstart.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/drawable/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/mipmap-anydpi/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/mipmap-anydpi/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/app/src/test/java/com/example/apirequest/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/recording.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIWRecycler/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,11 +88,20 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/adetu/AndroidStudioProjects/TA Projects 2024/APIWRecycler",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.17",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adetu\AndroidStudioProjects\TA Projects 2024\APIWRecycler" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adetu\AndroidStudioProjects\TA Projects 2024" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="SpotifyClone.app.main" />
