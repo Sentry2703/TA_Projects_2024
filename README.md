@@ -5,4 +5,5 @@
 * debugger - Lab Week 4
 * apirequest - Lab Week 5
 * apiRequestWRecycler - Lab Week 6
+* FontChanger - Lab Week 7
   
